@@ -1,8 +1,8 @@
 # MINESWEEPER
 
--Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighbouring mines in each field.
+- Minesweeper is a single-player puzzle video game. The objective of the game is to clear a rectangular board containing hidden "mines" or bombs without detonating any of them, with help from clues about the number of neighbouring mines in each field.
 
--Working of app :-
+- Working of app :-
  The app containes 2 activities- MainActivity as launcher activity and GameActivity.
  1. The main activity displays the user his best game time and last game time.
     The user has the option to choose from following levels :-
@@ -20,3 +20,8 @@
 	At the end of the game, the game time is stored and board buttons are disabled. High score ie best game time is only updated if the user wins the game. The high scores are displayed on the main activity along with their last game time.
 	If the user wins the round, he can share his playing time with his friends in the form of message with the help of messaging apps (like Gmail, Whatsapp, etc) installed on his device.
 	
+
+## Demo
+This demo was recorded on emulator of android studio 
+
+https://github.com/DhananjayNavlani/Minesweeper/assets/67141328/79efe460-9bdc-4b73-b311-2a4585f4207d
